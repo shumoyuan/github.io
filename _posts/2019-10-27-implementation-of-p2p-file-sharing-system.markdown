@@ -11,6 +11,7 @@ tags:
     - BitTorrent
 ---
 [ProjectPage](https://github.com/shumoyuan/P2PFile)
+
 Remodeled a P2P file sharing software like BitTorrent to enable users to share files using Java language.
 
 Enabled peers to send a handshake message before transmission.
