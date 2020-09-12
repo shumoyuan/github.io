@@ -1,2 +1,2 @@
 Webpage structure with Jekyll
-[myWebsite][https://shumoyuan.github.io]
+[myWebsite](https://shumoyuan.github.io)
