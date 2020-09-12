@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Implementation of Rainbow Table
-subtitle:   A quick method to crack encrypted secrect password
+subtitle:   A quick method to crack encrypted password
 date:       2018-10-27
 author:     Jue Yuan
 header-img: "img/post-bg-2018.jpg"
