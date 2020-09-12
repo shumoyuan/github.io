@@ -11,6 +11,7 @@ tags:
     - RSS Reader
 ---
 [ProjectPage](https://github.com/shumoyuan/ConcurrentRSSReader)
+
 Design of an RSS reader by java and XML. The RSS readers automatically check a series of RSS feeds for new items on an ongoing basis, making it is possible to keep track of changes to mutilple websites without needing to tediously read and re-read each of the websites yourself. Its main functions include support for subscriptions and modification of RSS channels, reading of subscriptions content, and support for background sync updates.
 
 Instruction:
